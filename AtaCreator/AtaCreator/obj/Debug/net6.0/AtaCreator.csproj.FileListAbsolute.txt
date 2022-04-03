@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\bin\Debug\net6.0\AtaCreator.exe
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\bin\Debug\net6.0\AtaCreator.deps.json
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\bin\Debug\net6.0\AtaCreator.runtimeconfig.json
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\bin\Debug\net6.0\AtaCreator.dll
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\bin\Debug\net6.0\AtaCreator.pdb
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.dll
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\refint\AtaCreator.dll
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.pdb
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\AtaCreator.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Repositorio git\AtaCreator\AtaCreator\obj\Debug\net6.0\ref\AtaCreator.dll
